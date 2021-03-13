@@ -1,0 +1,12 @@
+
+$body-bg: #000;
+$body-color: #111;
+
+
+/* The following line can be included in a src/App.scss */
+@import "./Assets/Scss/botao";
+@import "./Assets/Scss/titulo";
+@import "./Assets/Scss/banner";
+@import "~bootstrap/scss/bootstrap";
+
+
