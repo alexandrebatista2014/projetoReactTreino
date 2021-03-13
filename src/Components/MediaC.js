@@ -1,6 +1,6 @@
 import React from 'react';
 import Media from 'react-bootstrap/Media';
-import Mae from './../Assets/Imagem/mae.jpg';
+import Foto2 from './../Assets/Imagem/24.jpg';
 
 const MediaC = () => {
   return (
@@ -9,7 +9,7 @@ const MediaC = () => {
         width={326}
         height={244}
         className="mr-3"
-        src={Mae}
+        src={Foto2}
         alt="Generic placeholder"
       />
       <Media.Body>
